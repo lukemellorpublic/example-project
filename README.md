@@ -1,4 +1,4 @@
-# PayAdvance-ReportingDashboard
+# reporting dashboard example project
 
 
 <!-- PayAdvanceDev - -->
