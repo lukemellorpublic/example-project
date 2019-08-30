@@ -1,0 +1,20 @@
+{
+    "projectName": "payAdvance",
+    "projectPath": "C:\\Users\\Luke Mellor\\source\\repos\\TeamAtomicMedia\\PayAdvance-ReportingDashboard",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "C:\\Users\\Luke Mellor\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "C:\\Users\\Luke Mellor\\source\\repos\\TeamAtomicMedia\\PayAdvance-ReportingDashboard",
+            "DistributionDir": "C:\\Users\\Luke Mellor\\source\\repos\\TeamAtomicMedia",
+            "BuildCommand": "npm start",
+            "StartCommand": "npm.cmd run-script start"
+        }
+    },
+    "providers": {
+        "awscloudformation": "C:\\Users\\Luke Mellor\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-provider-awscloudformation"
+    }
+}
